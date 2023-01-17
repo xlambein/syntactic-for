@@ -2,7 +2,8 @@
 name = "syntactic-for"
 version = "0.1.0"
 edition = "2021"
-license-file = "LICENSE"
+license = "MIT"
+readme = "README.md"
 description = "A syntactic 'for' loop macro"
 repository = "https://github.com/xlambein/syntactic-for"
 keywords = ["macro"]
